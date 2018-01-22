@@ -1,0 +1,3 @@
+module MainClasses {
+    requires Calculate;
+}
